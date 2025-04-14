@@ -1,1 +1,7 @@
-My name is agjose fawaz, on today's class with mr Eliajha 
+My name is Ajose fawaz, on today's class with mr Eliajha, Over the course of learning about web fundamentals, I came to understand the difference between the Internet and the Web. The Internet is basically the giant network that connects computers around the world, while the Web is just one part of it—specifically the part that deals with websites, browsers, and online content we use every day.
+
+We also explored web architecture, which helped me see how everything works behind the scenes. There's a client (like a browser), a server that sends information, and often a database storing that info. Everything has to work together smoothly to make a website function.In web development, we touched on the building blocks: HTML, CSS, and JavaScript. I also learned how to use CMS tools like WordPress to create websites more easily, which is great for people who don’t want to code everything from scratch.
+
+Setting up a code editor and preparing a development environment made everything feel more real. Finally, creating a GitHub account introduced me to version control, which helps keep track of changes and collaborate with others.
+
+Altogether, this first class  gave me a clear, hands-on understanding of how the web works, and the diffrence between website and web application
